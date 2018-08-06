@@ -8,7 +8,7 @@
 }
 
  body {
-        background: url('../img/mta.jpg') no-repeat center center fixed;
+        background: url('../img/mta.png') no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -22,9 +22,6 @@
 
 .jumbotron {
      color: white;
-     background-color: lightblue;
+     background-color: rgb(94, 0, 170);
      min-width: 800px;
-}
-#panel-heading{
-  color: lightblue;
 }
